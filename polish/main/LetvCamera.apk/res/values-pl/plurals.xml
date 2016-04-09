@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<resources>
+  <plurals name="delete_selection">
+    <item quantity="other">Usunąć wybraną zawartość?</item>
+    <item quantity="one">Usunąć wybraną zawartość?</item>
+  </plurals>
+  <plurals name="number_of_items_selected">
+    <item quantity="other">%1$d plików</item>
+    <item quantity="zero">%1$d plików</item>
+    <item quantity="one">%1$d plik</item>
+  </plurals>
+  <plurals name="number_of_albums_selected">
+    <item quantity="other">%1$d albumów wybranych</item>
+    <item quantity="zero">%1$d albumów wybranych</item>
+    <item quantity="one">%1$d album wybrany</item>
+  </plurals>
+  <plurals name="number_of_groups_selected">
+    <item quantity="other">%1$d grup wybranych</item>
+    <item quantity="zero">%1$d grup wybranych</item>
+    <item quantity="one">%1$d grupa wybrana</item>
+  </plurals>
+  <plurals name="pref_camera_timer_entry">
+    <item quantity="other">%d seconds</item>
+    <item quantity="one">1 second</item>
+  </plurals>
+  <item name="APKTOOL_DUMMY_0005" type="plurals">false</item>
+  <item name="APKTOOL_DUMMY_0006" type="plurals">false</item>
+  <item name="APKTOOL_DUMMY_0007" type="plurals">false</item>
+</resources>
