@@ -177,7 +177,7 @@
   <string name="leui_office_default_application">Dokumenty</string>
   <string name="lockpassword_confirm_your_pin_and_password_header">Proszę potwierdzić zapisane hasła</string>
   <string name="loading_zone_items">loading zone items…</string>
-  <string name="letv_cloud_settings">LeCloud</string>
+  <string name="letv_cloud_settings">Chmura</string>
   <string name="leui_cpu_info" formatted="false">" %score %sGHz"</string>
   <string name="leui_cpu_info_with_name" formatted="false">"%s  %score %sGHz"</string>
   <string name="leui_eye_verity_settings">Eye Verity Settings</string>
@@ -291,7 +291,7 @@
   <string name="unlock_set_unlock_disabled_summary_fingerprint_open">Odblokowanie palcem włączone, nie możesz użyć tej opcji</string>
   <string name="finger_print_message_error_repeate">Wielokrotnie podnieś i umieść palec na wyznaczonym obszarze </string>
   <string name="leui_ecosystem_settings_title">Włącz zawartość Le Ecosystem</string>
-  <string name="leui_ecosystem_settings_summary">Włącz Le Video, Live &amp; LeView</string>
+  <string name="leui_ecosystem_settings_summary">Włącz Le Video, Live, LeView</string>
   <string name="leui_total_memory_title">Pojemność pamięci</string>
   <string name="leui_memory_info">Szczegóły zawartości</string>
   <string name="leui_memory_all_title">Wszystko</string>
@@ -339,8 +339,8 @@
   <string name="leui_superseatch_longpress_summary">Nie można szukać przy zablokowanym ekranie</string>
   <string name="leui_master_clear_low_battery_warning_text">Akumulator jest poniżej 20%. Proszę naładować i ponownie przywrócić do ustawień fabrycznych.</string>
   <string name="dds_deactived">Nie można korzystać z sieci danych obecnie. Proszę przełączyć kartę lub aktywować wyłączoną kartę SIM</string>
-  <string name="sim_enabler_disabling">Deactivating...</string>
-  <string name="sim_enabler_enabling">Activating...</string>
+  <string name="sim_enabler_disabling">Deaktywowanie...</string>
+  <string name="sim_enabler_enabling">Aktywowanie...</string>
   <string name="wifi_choose_network">Wybierz sieć</string>
   <string name="wifi_connected_network">Połączona sieć</string>
   <string name="wifi_input_password">Proszę wprowadzić hasło do sieci Wi-Fi</string>

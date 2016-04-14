@@ -419,7 +419,7 @@ Używasz też połączenia VPN („%3$s”). Twój operator VPN również może 
   <string name="statusbar_sim_message_default">Brak usługi</string>
   <string name="statusbar_return_incall_dialing">Dzwoni</string>
   <string name="le_clear_btn_text">Wyczyść wszystko</string>
-  <string name="status_bar_recent_memory_info">%1$s of %3$s dostępne</string>
+  <string name="status_bar_recent_memory_info">%1$s z %3$s dostępne</string>
   <string name="status_bar_recent_memory_info_only">%1$s of %3$s dostępne</string>
   <string name="le_recent_guide_btn">Wiem</string>
   <string name="le_recent_guide_txt">"Przesuń w dół, aby zablokować lub odblokować Przesuń w górę, aby usunąć"</string>
