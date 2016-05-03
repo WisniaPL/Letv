@@ -15,7 +15,7 @@
   <string name="search_go">Szukaj</string>
   <string name="selectAll">Wszystko</string>
   <string name="unknownName">(Nieznany)</string>
-  <string name="untitled">&lt;Bez nazwy&gt;</string>
+  <string name="untitled">Bez nazwy</string>
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_unknown">Nie można odtworzyć tego filmu.</string>
   <string name="VideoView_error_title">Problem z filmem</string>
@@ -892,7 +892,7 @@
   <string name="lockscreen_pattern_wrong">Spróbuj ponownie</string>
   <string name="lockscreen_password_wrong">Spróbuj ponownie</string>
   <string name="faceunlock_multiple_failures">Przekroczono maksymalną liczbę prób rozpoznania twarzy.</string>
-  <string name="lockscreen_plugged_in">Ładowanie (%d%%)</string>
+  <string name="lockscreen_plugged_in">Ładowanie %d%%</string>
   <string name="lockscreen_charged">Naładowany</string>
   <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_low_battery">Podłącz ładowarkę.</string>

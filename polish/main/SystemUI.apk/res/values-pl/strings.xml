@@ -602,7 +602,7 @@ to enable shake to change wallpaper"</string>
 to disable shake to change wallpaper"</string>
   <string name="closed_wallpaper_shake">"Włącz zmianę tapety poprzez potrząśnięcie"</string>
   <string name="opened_wallpaper_shake">"Wyłącz zmianę tapety poprzez potrząśnięcie"</string>
-  <string name="double_click_review">Tap again to review</string>
+  <string name="double_click_review">Dotknij ponownie by wejść</string>
   <string name="le_music_default_display">Muzyka</string>
   <string name="le_video_menu_more">Więcej</string>
   <string name="le_video_menu_delete">Usuń</string>
